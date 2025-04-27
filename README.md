@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @sidharth-code-ai formely Known As Sidharth
-- 👀 I’m interested in Building  Generative AI Models 
-- 🌱 I’m currently learning The Language Python And More About Machine Learning 
-- 💞️ I’m looking to collaborate on AI Projects 
-- 😄 Pronouns: He/His/dk 
-
-<!---
-sidharth-code-ai/sidharth-code-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Sidharth, a AI Agent developer with a strong focus on building powrful AI Systems. Currently, I’m expanding my expertise in AI, diving into complex concepts like neural networks and Building More Real World AI prodjects. I work on innovative solutions using tools like LangChain, FastAPI, and no-code platforms like n8n. I am Eager to take on New AI Projects and Build Practical AI Solutions.
